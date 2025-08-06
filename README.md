@@ -5,7 +5,7 @@ A real-time, full-stack fraud detection system using Machine Learning and SMS-ba
 ---
 
 ## 🌐 Live Demo
-[Live Link](#)
+[Live Link](https://fiddy.onrender.com)
 
 ## 🧠 Code Repositories
 - **ML Model**: [github.com/abhinn14/fraudy](https://github.com/abhinn14/fraudy)
